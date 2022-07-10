@@ -21,7 +21,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Administrador Lircay Hub</title>
     <link href="https://fonts.googleapis.com/css?family=Raleway:200,300,400,500&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="css/estiloindex.css">
+    <link rel="stylesheet" href="css/index.css">
     <link rel="stylesheet" href="css/bootstrap.min.css">
 
     <!-- formulario -->
